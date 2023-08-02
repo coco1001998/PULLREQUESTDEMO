@@ -1,2 +1,2 @@
 print ("Rise & Shine")
-print ("let's get it started
+print ("let's get it started")
